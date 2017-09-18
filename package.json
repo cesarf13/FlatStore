@@ -1,0 +1,20 @@
+{
+  "name": "flatstore",
+  "version": "1.0.0",
+  "description": "api tienda flatlanders",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Flores",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
